@@ -17,7 +17,7 @@ This project analyzes residential real estate transactions in King County, USA (
 - **Data Visualization**: Scatter plot analysis, distribution charts, trend analysis
 
 ## Dashboard Preview
-![House Sales Dashboard](House%20Sales%20Dashboard.png)
+![House Sales Dashboard](House%20Sales%20dashboard.png)
 
 ## Key Insights
 - Sqft Living and Price show a strong positive correlation, though the relationship flattens above 6K sqft, suggesting diminishing returns on size alone
